@@ -1,0 +1,7 @@
+C:\Users\ы\source\repos\13.04.2021 1\13.04.2021 1\obj\Debug\13.04.2021 1.csprojAssemblyReference.cache
+C:\Users\ы\source\repos\13.04.2021 1\13.04.2021 1\obj\Debug\13.04.2021 1.csproj.CoreCompileInputs.cache
+C:\Users\ы\source\repos\13.04.2021 1\13.04.2021 1\bin\Debug\13.04.2021 1.exe.config
+C:\Users\ы\source\repos\13.04.2021 1\13.04.2021 1\bin\Debug\13.04.2021 1.exe
+C:\Users\ы\source\repos\13.04.2021 1\13.04.2021 1\bin\Debug\13.04.2021 1.pdb
+C:\Users\ы\source\repos\13.04.2021 1\13.04.2021 1\obj\Debug\13.04.2021 1.exe
+C:\Users\ы\source\repos\13.04.2021 1\13.04.2021 1\obj\Debug\13.04.2021 1.pdb
